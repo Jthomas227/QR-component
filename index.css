@@ -1,0 +1,58 @@
+* {
+    background-color: rgb(154, 205, 230);
+    padding: 0;
+    margin: 0;
+
+}
+
+#component{
+    align-self: center;
+    border-radius: 15px;
+    width: 15rem;
+    height: 25rem;
+    margin: auto;
+    margin-top: 10rem;
+    background-color: white;
+    padding-left: 1rem;
+    padding-right: 1.7rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#QR-code{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+}
+
+#p1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: white;
+    max-width:240px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#p2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
+    background-color: white;
+    text-align: center;
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.attribution{
+    text-align: center;
+}
